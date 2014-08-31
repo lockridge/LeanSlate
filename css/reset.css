@@ -1,8 +1,7 @@
 /* 
-html5doctor.com Reset Stylesheet v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com 
+CSS Reset - Please feel free to edit.
 */
+
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -48,13 +47,13 @@ a {
     vertical-align:baseline;
     background:transparent;
 }
-/* change colours to suit your needs */
+/* Change color */
 ins {
     background-color:#ff9;
     color:#000;
     text-decoration:none;
 }
-/* change colours to suit your needs */
+/* Change color */
 mark {
     background-color:#ff9;
     color:#000; 
@@ -72,7 +71,7 @@ table {
     border-collapse:collapse;
     border-spacing:0;
 }
-/* change border colour to suit your needs */
+/* Change border color */
 hr {
     display:block;
     height:1px;
